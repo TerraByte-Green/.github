@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🌱 TerraByte Green
+<img src="https://terrabyte.green/wp-content/uploads/2025/11/terrabyte_site_icon.png" width="140" alt="TerraByte Green logo" />
+
+# TerraByte Green
 
 ### Turning e-waste into digital opportunity across North Carolina
 
